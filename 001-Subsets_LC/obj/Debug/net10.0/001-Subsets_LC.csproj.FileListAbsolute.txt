@@ -1,0 +1,14 @@
+F:\eJPT\Problem_Solving\001-Subsets_LC\bin\Debug\net10.0\001-Subsets_LC.exe
+F:\eJPT\Problem_Solving\001-Subsets_LC\bin\Debug\net10.0\001-Subsets_LC.deps.json
+F:\eJPT\Problem_Solving\001-Subsets_LC\bin\Debug\net10.0\001-Subsets_LC.runtimeconfig.json
+F:\eJPT\Problem_Solving\001-Subsets_LC\bin\Debug\net10.0\001-Subsets_LC.dll
+F:\eJPT\Problem_Solving\001-Subsets_LC\bin\Debug\net10.0\001-Subsets_LC.pdb
+F:\eJPT\Problem_Solving\001-Subsets_LC\obj\Debug\net10.0\001-Subsets_LC.GeneratedMSBuildEditorConfig.editorconfig
+F:\eJPT\Problem_Solving\001-Subsets_LC\obj\Debug\net10.0\001-Subsets_LC.AssemblyInfoInputs.cache
+F:\eJPT\Problem_Solving\001-Subsets_LC\obj\Debug\net10.0\001-Subsets_LC.AssemblyInfo.cs
+F:\eJPT\Problem_Solving\001-Subsets_LC\obj\Debug\net10.0\001-Subsets_LC.csproj.CoreCompileInputs.cache
+F:\eJPT\Problem_Solving\001-Subsets_LC\obj\Debug\net10.0\001-Subsets_LC.dll
+F:\eJPT\Problem_Solving\001-Subsets_LC\obj\Debug\net10.0\refint\001-Subsets_LC.dll
+F:\eJPT\Problem_Solving\001-Subsets_LC\obj\Debug\net10.0\001-Subsets_LC.pdb
+F:\eJPT\Problem_Solving\001-Subsets_LC\obj\Debug\net10.0\001-Subsets_LC.genruntimeconfig.cache
+F:\eJPT\Problem_Solving\001-Subsets_LC\obj\Debug\net10.0\ref\001-Subsets_LC.dll
