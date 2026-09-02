@@ -1,0 +1,15 @@
+F:\eJPT\Problem_Solving\009-ThirdMaximumNumber_LC\009-ThirdMaximumNumber_LC\bin\Debug\net10.0\009-ThirdMaximumNumber_LC.exe
+F:\eJPT\Problem_Solving\009-ThirdMaximumNumber_LC\009-ThirdMaximumNumber_LC\bin\Debug\net10.0\009-ThirdMaximumNumber_LC.deps.json
+F:\eJPT\Problem_Solving\009-ThirdMaximumNumber_LC\009-ThirdMaximumNumber_LC\bin\Debug\net10.0\009-ThirdMaximumNumber_LC.runtimeconfig.json
+F:\eJPT\Problem_Solving\009-ThirdMaximumNumber_LC\009-ThirdMaximumNumber_LC\bin\Debug\net10.0\009-ThirdMaximumNumber_LC.dll
+F:\eJPT\Problem_Solving\009-ThirdMaximumNumber_LC\009-ThirdMaximumNumber_LC\bin\Debug\net10.0\009-ThirdMaximumNumber_LC.pdb
+F:\eJPT\Problem_Solving\009-ThirdMaximumNumber_LC\009-ThirdMaximumNumber_LC\obj\Debug\net10.0\009-ThirdMaximumNumber_LC.GeneratedMSBuildEditorConfig.editorconfig
+F:\eJPT\Problem_Solving\009-ThirdMaximumNumber_LC\009-ThirdMaximumNumber_LC\obj\Debug\net10.0\009-ThirdMaximumNumber_LC.AssemblyInfoInputs.cache
+F:\eJPT\Problem_Solving\009-ThirdMaximumNumber_LC\009-ThirdMaximumNumber_LC\obj\Debug\net10.0\009-ThirdMaximumNumber_LC.AssemblyInfo.cs
+F:\eJPT\Problem_Solving\009-ThirdMaximumNumber_LC\009-ThirdMaximumNumber_LC\obj\Debug\net10.0\009-ThirdMaximumNumber_LC.csproj.CoreCompileInputs.cache
+F:\eJPT\Problem_Solving\009-ThirdMaximumNumber_LC\009-ThirdMaximumNumber_LC\obj\Debug\net10.0\009-ThirdMaximumNumber_LC.sourcelink.json
+F:\eJPT\Problem_Solving\009-ThirdMaximumNumber_LC\009-ThirdMaximumNumber_LC\obj\Debug\net10.0\009-ThirdMaximumNumber_LC.dll
+F:\eJPT\Problem_Solving\009-ThirdMaximumNumber_LC\009-ThirdMaximumNumber_LC\obj\Debug\net10.0\refint\009-ThirdMaximumNumber_LC.dll
+F:\eJPT\Problem_Solving\009-ThirdMaximumNumber_LC\009-ThirdMaximumNumber_LC\obj\Debug\net10.0\009-ThirdMaximumNumber_LC.pdb
+F:\eJPT\Problem_Solving\009-ThirdMaximumNumber_LC\009-ThirdMaximumNumber_LC\obj\Debug\net10.0\009-ThirdMaximumNumber_LC.genruntimeconfig.cache
+F:\eJPT\Problem_Solving\009-ThirdMaximumNumber_LC\009-ThirdMaximumNumber_LC\obj\Debug\net10.0\ref\009-ThirdMaximumNumber_LC.dll

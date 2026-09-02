@@ -1,0 +1,15 @@
+F:\eJPT\Problem_Solving\008-ConstructUniformParity_LC\008-ConstructUniformParity_LC\bin\Debug\net10.0\008-ConstructUniformParity_LC.exe
+F:\eJPT\Problem_Solving\008-ConstructUniformParity_LC\008-ConstructUniformParity_LC\bin\Debug\net10.0\008-ConstructUniformParity_LC.deps.json
+F:\eJPT\Problem_Solving\008-ConstructUniformParity_LC\008-ConstructUniformParity_LC\bin\Debug\net10.0\008-ConstructUniformParity_LC.runtimeconfig.json
+F:\eJPT\Problem_Solving\008-ConstructUniformParity_LC\008-ConstructUniformParity_LC\bin\Debug\net10.0\008-ConstructUniformParity_LC.dll
+F:\eJPT\Problem_Solving\008-ConstructUniformParity_LC\008-ConstructUniformParity_LC\bin\Debug\net10.0\008-ConstructUniformParity_LC.pdb
+F:\eJPT\Problem_Solving\008-ConstructUniformParity_LC\008-ConstructUniformParity_LC\obj\Debug\net10.0\008-ConstructUniformParity_LC.GeneratedMSBuildEditorConfig.editorconfig
+F:\eJPT\Problem_Solving\008-ConstructUniformParity_LC\008-ConstructUniformParity_LC\obj\Debug\net10.0\008-ConstructUniformParity_LC.AssemblyInfoInputs.cache
+F:\eJPT\Problem_Solving\008-ConstructUniformParity_LC\008-ConstructUniformParity_LC\obj\Debug\net10.0\008-ConstructUniformParity_LC.AssemblyInfo.cs
+F:\eJPT\Problem_Solving\008-ConstructUniformParity_LC\008-ConstructUniformParity_LC\obj\Debug\net10.0\008-ConstructUniformParity_LC.csproj.CoreCompileInputs.cache
+F:\eJPT\Problem_Solving\008-ConstructUniformParity_LC\008-ConstructUniformParity_LC\obj\Debug\net10.0\008-ConstructUniformParity_LC.sourcelink.json
+F:\eJPT\Problem_Solving\008-ConstructUniformParity_LC\008-ConstructUniformParity_LC\obj\Debug\net10.0\008-ConstructUniformParity_LC.dll
+F:\eJPT\Problem_Solving\008-ConstructUniformParity_LC\008-ConstructUniformParity_LC\obj\Debug\net10.0\refint\008-ConstructUniformParity_LC.dll
+F:\eJPT\Problem_Solving\008-ConstructUniformParity_LC\008-ConstructUniformParity_LC\obj\Debug\net10.0\008-ConstructUniformParity_LC.pdb
+F:\eJPT\Problem_Solving\008-ConstructUniformParity_LC\008-ConstructUniformParity_LC\obj\Debug\net10.0\008-ConstructUniformParity_LC.genruntimeconfig.cache
+F:\eJPT\Problem_Solving\008-ConstructUniformParity_LC\008-ConstructUniformParity_LC\obj\Debug\net10.0\ref\008-ConstructUniformParity_LC.dll
