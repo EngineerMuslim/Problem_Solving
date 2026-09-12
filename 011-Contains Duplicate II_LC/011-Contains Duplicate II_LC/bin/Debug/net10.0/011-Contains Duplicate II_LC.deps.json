@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "011-Contains Duplicate II_LC/1.0.0": {
+        "runtime": {
+          "011-Contains Duplicate II_LC.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "011-Contains Duplicate II_LC/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+F:\eJPT\Problem_Solving\011-Contains Duplicate II_LC\011-Contains Duplicate II_LC\obj\Debug\net10.0\011-Contains Duplicate II_LC.GeneratedMSBuildEditorConfig.editorconfig
+F:\eJPT\Problem_Solving\011-Contains Duplicate II_LC\011-Contains Duplicate II_LC\obj\Debug\net10.0\011-Contains Duplicate II_LC.AssemblyInfoInputs.cache
+F:\eJPT\Problem_Solving\011-Contains Duplicate II_LC\011-Contains Duplicate II_LC\obj\Debug\net10.0\011-Contains Duplicate II_LC.AssemblyInfo.cs
+F:\eJPT\Problem_Solving\011-Contains Duplicate II_LC\011-Contains Duplicate II_LC\obj\Debug\net10.0\011-Contains Duplicate II_LC.csproj.CoreCompileInputs.cache
+F:\eJPT\Problem_Solving\011-Contains Duplicate II_LC\011-Contains Duplicate II_LC\obj\Debug\net10.0\011-Contains Duplicate II_LC.sourcelink.json
+F:\eJPT\Problem_Solving\011-Contains Duplicate II_LC\011-Contains Duplicate II_LC\bin\Debug\net10.0\011-Contains Duplicate II_LC.exe
+F:\eJPT\Problem_Solving\011-Contains Duplicate II_LC\011-Contains Duplicate II_LC\bin\Debug\net10.0\011-Contains Duplicate II_LC.deps.json
+F:\eJPT\Problem_Solving\011-Contains Duplicate II_LC\011-Contains Duplicate II_LC\bin\Debug\net10.0\011-Contains Duplicate II_LC.runtimeconfig.json
+F:\eJPT\Problem_Solving\011-Contains Duplicate II_LC\011-Contains Duplicate II_LC\bin\Debug\net10.0\011-Contains Duplicate II_LC.dll
+F:\eJPT\Problem_Solving\011-Contains Duplicate II_LC\011-Contains Duplicate II_LC\bin\Debug\net10.0\011-Contains Duplicate II_LC.pdb
+F:\eJPT\Problem_Solving\011-Contains Duplicate II_LC\011-Contains Duplicate II_LC\obj\Debug\net10.0\011-Contains Duplicate II_LC.dll
+F:\eJPT\Problem_Solving\011-Contains Duplicate II_LC\011-Contains Duplicate II_LC\obj\Debug\net10.0\refint\011-Contains Duplicate II_LC.dll
+F:\eJPT\Problem_Solving\011-Contains Duplicate II_LC\011-Contains Duplicate II_LC\obj\Debug\net10.0\011-Contains Duplicate II_LC.pdb
+F:\eJPT\Problem_Solving\011-Contains Duplicate II_LC\011-Contains Duplicate II_LC\obj\Debug\net10.0\011-Contains Duplicate II_LC.genruntimeconfig.cache
+F:\eJPT\Problem_Solving\011-Contains Duplicate II_LC\011-Contains Duplicate II_LC\obj\Debug\net10.0\ref\011-Contains Duplicate II_LC.dll
