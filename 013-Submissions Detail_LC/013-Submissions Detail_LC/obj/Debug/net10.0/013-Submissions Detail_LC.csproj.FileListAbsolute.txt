@@ -1,0 +1,16 @@
+F:\eJPT\Problem_Solving\013-Submissions Detail_LC\013-Submissions Detail_LC\obj\Debug\net10.0\013-Submissions Detail_LC.GeneratedMSBuildEditorConfig.editorconfig
+F:\eJPT\Problem_Solving\013-Submissions Detail_LC\013-Submissions Detail_LC\obj\Debug\net10.0\013-Submissions Detail_LC.AssemblyInfoInputs.cache
+F:\eJPT\Problem_Solving\013-Submissions Detail_LC\013-Submissions Detail_LC\obj\Debug\net10.0\013-Submissions Detail_LC.AssemblyInfo.cs
+F:\eJPT\Problem_Solving\013-Submissions Detail_LC\013-Submissions Detail_LC\obj\Debug\net10.0\013-Submissions Detail_LC.csproj.CoreCompileInputs.cache
+F:\eJPT\Problem_Solving\013-Submissions Detail_LC\013-Submissions Detail_LC\obj\Debug\net10.0\013-Submissions Detail_LC.sourcelink.json
+F:\eJPT\Problem_Solving\013-Submissions Detail_LC\013-Submissions Detail_LC\bin\Debug\net10.0\013-Submissions Detail_LC.exe
+F:\eJPT\Problem_Solving\013-Submissions Detail_LC\013-Submissions Detail_LC\bin\Debug\net10.0\013-Submissions Detail_LC.deps.json
+F:\eJPT\Problem_Solving\013-Submissions Detail_LC\013-Submissions Detail_LC\bin\Debug\net10.0\013-Submissions Detail_LC.runtimeconfig.json
+F:\eJPT\Problem_Solving\013-Submissions Detail_LC\013-Submissions Detail_LC\bin\Debug\net10.0\013-Submissions Detail_LC.dll
+F:\eJPT\Problem_Solving\013-Submissions Detail_LC\013-Submissions Detail_LC\bin\Debug\net10.0\013-Submissions Detail_LC.pdb
+F:\eJPT\Problem_Solving\013-Submissions Detail_LC\013-Submissions Detail_LC\obj\Debug\net10.0\013-Submissions Detail_LC.dll
+F:\eJPT\Problem_Solving\013-Submissions Detail_LC\013-Submissions Detail_LC\obj\Debug\net10.0\refint\013-Submissions Detail_LC.dll
+F:\eJPT\Problem_Solving\013-Submissions Detail_LC\013-Submissions Detail_LC\obj\Debug\net10.0\013-Submissions Detail_LC.pdb
+F:\eJPT\Problem_Solving\013-Submissions Detail_LC\013-Submissions Detail_LC\obj\Debug\net10.0\013-Submissions Detail_LC.genruntimeconfig.cache
+F:\eJPT\Problem_Solving\013-Submissions Detail_LC\013-Submissions Detail_LC\obj\Debug\net10.0\ref\013-Submissions Detail_LC.dll
+F:\eJPT\Problem_Solving\013-Submissions Detail_LC\013-Submissions Detail_LC\obj\Debug\net10.0\013-Subm.1FEF7E18.Up2Date

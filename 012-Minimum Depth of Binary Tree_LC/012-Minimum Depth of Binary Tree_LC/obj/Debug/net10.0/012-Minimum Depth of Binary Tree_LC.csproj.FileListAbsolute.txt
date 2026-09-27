@@ -1,0 +1,15 @@
+C:\Users\HP\source\repos\012-Minimum Depth of Binary Tree_LC\012-Minimum Depth of Binary Tree_LC\bin\Debug\net10.0\012-Minimum Depth of Binary Tree_LC.exe
+C:\Users\HP\source\repos\012-Minimum Depth of Binary Tree_LC\012-Minimum Depth of Binary Tree_LC\bin\Debug\net10.0\012-Minimum Depth of Binary Tree_LC.deps.json
+C:\Users\HP\source\repos\012-Minimum Depth of Binary Tree_LC\012-Minimum Depth of Binary Tree_LC\bin\Debug\net10.0\012-Minimum Depth of Binary Tree_LC.runtimeconfig.json
+C:\Users\HP\source\repos\012-Minimum Depth of Binary Tree_LC\012-Minimum Depth of Binary Tree_LC\bin\Debug\net10.0\012-Minimum Depth of Binary Tree_LC.dll
+C:\Users\HP\source\repos\012-Minimum Depth of Binary Tree_LC\012-Minimum Depth of Binary Tree_LC\bin\Debug\net10.0\012-Minimum Depth of Binary Tree_LC.pdb
+C:\Users\HP\source\repos\012-Minimum Depth of Binary Tree_LC\012-Minimum Depth of Binary Tree_LC\obj\Debug\net10.0\012-Minimum Depth of Binary Tree_LC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\012-Minimum Depth of Binary Tree_LC\012-Minimum Depth of Binary Tree_LC\obj\Debug\net10.0\012-Minimum Depth of Binary Tree_LC.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\012-Minimum Depth of Binary Tree_LC\012-Minimum Depth of Binary Tree_LC\obj\Debug\net10.0\012-Minimum Depth of Binary Tree_LC.AssemblyInfo.cs
+C:\Users\HP\source\repos\012-Minimum Depth of Binary Tree_LC\012-Minimum Depth of Binary Tree_LC\obj\Debug\net10.0\012-Minimum Depth of Binary Tree_LC.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\012-Minimum Depth of Binary Tree_LC\012-Minimum Depth of Binary Tree_LC\obj\Debug\net10.0\012-Minimum Depth of Binary Tree_LC.dll
+C:\Users\HP\source\repos\012-Minimum Depth of Binary Tree_LC\012-Minimum Depth of Binary Tree_LC\obj\Debug\net10.0\refint\012-Minimum Depth of Binary Tree_LC.dll
+C:\Users\HP\source\repos\012-Minimum Depth of Binary Tree_LC\012-Minimum Depth of Binary Tree_LC\obj\Debug\net10.0\012-Minimum Depth of Binary Tree_LC.pdb
+C:\Users\HP\source\repos\012-Minimum Depth of Binary Tree_LC\012-Minimum Depth of Binary Tree_LC\obj\Debug\net10.0\012-Minimum Depth of Binary Tree_LC.genruntimeconfig.cache
+C:\Users\HP\source\repos\012-Minimum Depth of Binary Tree_LC\012-Minimum Depth of Binary Tree_LC\obj\Debug\net10.0\ref\012-Minimum Depth of Binary Tree_LC.dll
+C:\Users\HP\source\repos\012-Minimum Depth of Binary Tree_LC\012-Minimum Depth of Binary Tree_LC\obj\Debug\net10.0\012-Mini.93DE895D.Up2Date
