@@ -1,0 +1,16 @@
+F:\eJPT\Problem_Solving\014-MaxDepth_LC\014-MaxDepth_LC\bin\Debug\net10.0\014-MaxDepth_LC.exe
+F:\eJPT\Problem_Solving\014-MaxDepth_LC\014-MaxDepth_LC\bin\Debug\net10.0\014-MaxDepth_LC.deps.json
+F:\eJPT\Problem_Solving\014-MaxDepth_LC\014-MaxDepth_LC\bin\Debug\net10.0\014-MaxDepth_LC.runtimeconfig.json
+F:\eJPT\Problem_Solving\014-MaxDepth_LC\014-MaxDepth_LC\bin\Debug\net10.0\014-MaxDepth_LC.dll
+F:\eJPT\Problem_Solving\014-MaxDepth_LC\014-MaxDepth_LC\bin\Debug\net10.0\014-MaxDepth_LC.pdb
+F:\eJPT\Problem_Solving\014-MaxDepth_LC\014-MaxDepth_LC\obj\Debug\net10.0\014-MaxDepth_LC.GeneratedMSBuildEditorConfig.editorconfig
+F:\eJPT\Problem_Solving\014-MaxDepth_LC\014-MaxDepth_LC\obj\Debug\net10.0\014-MaxDepth_LC.AssemblyInfoInputs.cache
+F:\eJPT\Problem_Solving\014-MaxDepth_LC\014-MaxDepth_LC\obj\Debug\net10.0\014-MaxDepth_LC.AssemblyInfo.cs
+F:\eJPT\Problem_Solving\014-MaxDepth_LC\014-MaxDepth_LC\obj\Debug\net10.0\014-MaxDepth_LC.csproj.CoreCompileInputs.cache
+F:\eJPT\Problem_Solving\014-MaxDepth_LC\014-MaxDepth_LC\obj\Debug\net10.0\014-MaxDepth_LC.sourcelink.json
+F:\eJPT\Problem_Solving\014-MaxDepth_LC\014-MaxDepth_LC\obj\Debug\net10.0\014-MaxDepth_LC.dll
+F:\eJPT\Problem_Solving\014-MaxDepth_LC\014-MaxDepth_LC\obj\Debug\net10.0\refint\014-MaxDepth_LC.dll
+F:\eJPT\Problem_Solving\014-MaxDepth_LC\014-MaxDepth_LC\obj\Debug\net10.0\014-MaxDepth_LC.pdb
+F:\eJPT\Problem_Solving\014-MaxDepth_LC\014-MaxDepth_LC\obj\Debug\net10.0\014-MaxDepth_LC.genruntimeconfig.cache
+F:\eJPT\Problem_Solving\014-MaxDepth_LC\014-MaxDepth_LC\obj\Debug\net10.0\ref\014-MaxDepth_LC.dll
+F:\eJPT\Problem_Solving\014-MaxDepth_LC\014-MaxDepth_LC\obj\Debug\net10.0\014-MaxD.304A1A73.Up2Date
