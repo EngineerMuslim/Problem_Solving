@@ -1,0 +1,16 @@
+F:\eJPT\Problem_Solving\015-Ugly Number_LC\015-Ugly Number_LC\bin\Debug\net10.0\015-Ugly Number_LC.exe
+F:\eJPT\Problem_Solving\015-Ugly Number_LC\015-Ugly Number_LC\bin\Debug\net10.0\015-Ugly Number_LC.deps.json
+F:\eJPT\Problem_Solving\015-Ugly Number_LC\015-Ugly Number_LC\bin\Debug\net10.0\015-Ugly Number_LC.runtimeconfig.json
+F:\eJPT\Problem_Solving\015-Ugly Number_LC\015-Ugly Number_LC\bin\Debug\net10.0\015-Ugly Number_LC.dll
+F:\eJPT\Problem_Solving\015-Ugly Number_LC\015-Ugly Number_LC\bin\Debug\net10.0\015-Ugly Number_LC.pdb
+F:\eJPT\Problem_Solving\015-Ugly Number_LC\015-Ugly Number_LC\obj\Debug\net10.0\015-Ugly Number_LC.GeneratedMSBuildEditorConfig.editorconfig
+F:\eJPT\Problem_Solving\015-Ugly Number_LC\015-Ugly Number_LC\obj\Debug\net10.0\015-Ugly Number_LC.AssemblyInfoInputs.cache
+F:\eJPT\Problem_Solving\015-Ugly Number_LC\015-Ugly Number_LC\obj\Debug\net10.0\015-Ugly Number_LC.AssemblyInfo.cs
+F:\eJPT\Problem_Solving\015-Ugly Number_LC\015-Ugly Number_LC\obj\Debug\net10.0\015-Ugly Number_LC.csproj.CoreCompileInputs.cache
+F:\eJPT\Problem_Solving\015-Ugly Number_LC\015-Ugly Number_LC\obj\Debug\net10.0\015-Ugly Number_LC.sourcelink.json
+F:\eJPT\Problem_Solving\015-Ugly Number_LC\015-Ugly Number_LC\obj\Debug\net10.0\015-Ugly Number_LC.dll
+F:\eJPT\Problem_Solving\015-Ugly Number_LC\015-Ugly Number_LC\obj\Debug\net10.0\refint\015-Ugly Number_LC.dll
+F:\eJPT\Problem_Solving\015-Ugly Number_LC\015-Ugly Number_LC\obj\Debug\net10.0\015-Ugly Number_LC.pdb
+F:\eJPT\Problem_Solving\015-Ugly Number_LC\015-Ugly Number_LC\obj\Debug\net10.0\015-Ugly Number_LC.genruntimeconfig.cache
+F:\eJPT\Problem_Solving\015-Ugly Number_LC\015-Ugly Number_LC\obj\Debug\net10.0\ref\015-Ugly Number_LC.dll
+F:\eJPT\Problem_Solving\015-Ugly Number_LC\015-Ugly Number_LC\obj\Debug\net10.0\015-Ugly.6A87027C.Up2Date
