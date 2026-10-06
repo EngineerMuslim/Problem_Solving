@@ -1,0 +1,16 @@
+F:\eJPT\Problem_Solving\016-MinimumNumberofSwaps_LC\bin\Debug\net10.0\016-MinimumNumberofSwaps_LC.exe
+F:\eJPT\Problem_Solving\016-MinimumNumberofSwaps_LC\bin\Debug\net10.0\016-MinimumNumberofSwaps_LC.deps.json
+F:\eJPT\Problem_Solving\016-MinimumNumberofSwaps_LC\bin\Debug\net10.0\016-MinimumNumberofSwaps_LC.runtimeconfig.json
+F:\eJPT\Problem_Solving\016-MinimumNumberofSwaps_LC\bin\Debug\net10.0\016-MinimumNumberofSwaps_LC.dll
+F:\eJPT\Problem_Solving\016-MinimumNumberofSwaps_LC\bin\Debug\net10.0\016-MinimumNumberofSwaps_LC.pdb
+F:\eJPT\Problem_Solving\016-MinimumNumberofSwaps_LC\obj\Debug\net10.0\016-MinimumNumberofSwaps_LC.GeneratedMSBuildEditorConfig.editorconfig
+F:\eJPT\Problem_Solving\016-MinimumNumberofSwaps_LC\obj\Debug\net10.0\016-MinimumNumberofSwaps_LC.AssemblyInfoInputs.cache
+F:\eJPT\Problem_Solving\016-MinimumNumberofSwaps_LC\obj\Debug\net10.0\016-MinimumNumberofSwaps_LC.AssemblyInfo.cs
+F:\eJPT\Problem_Solving\016-MinimumNumberofSwaps_LC\obj\Debug\net10.0\016-MinimumNumberofSwaps_LC.csproj.CoreCompileInputs.cache
+F:\eJPT\Problem_Solving\016-MinimumNumberofSwaps_LC\obj\Debug\net10.0\016-MinimumNumberofSwaps_LC.sourcelink.json
+F:\eJPT\Problem_Solving\016-MinimumNumberofSwaps_LC\obj\Debug\net10.0\016-MinimumNumberofSwaps_LC.dll
+F:\eJPT\Problem_Solving\016-MinimumNumberofSwaps_LC\obj\Debug\net10.0\refint\016-MinimumNumberofSwaps_LC.dll
+F:\eJPT\Problem_Solving\016-MinimumNumberofSwaps_LC\obj\Debug\net10.0\016-MinimumNumberofSwaps_LC.pdb
+F:\eJPT\Problem_Solving\016-MinimumNumberofSwaps_LC\obj\Debug\net10.0\016-MinimumNumberofSwaps_LC.genruntimeconfig.cache
+F:\eJPT\Problem_Solving\016-MinimumNumberofSwaps_LC\obj\Debug\net10.0\ref\016-MinimumNumberofSwaps_LC.dll
+F:\eJPT\Problem_Solving\016-MinimumNumberofSwaps_LC\obj\Debug\net10.0\016-Mini.8BE5FA23.Up2Date
